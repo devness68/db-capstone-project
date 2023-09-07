@@ -1,0 +1,11 @@
+Customer_ID,Customer_Name,Order_ID,Cost,Cuisine,Courses,Starters
+101,"John Doe",1,19,Japanese,"Sushi Platter",Edamame
+101,"John Doe",1,19,Japanese,"Sushi Platter",Edamame
+101,"John Doe",1,26,Italian,"Spaghetti Carbonara",Bruschetta
+101,"John Doe",1,26,Italian,"Spaghetti Carbonara",Bruschetta
+102,"Jane Smith",2,30,American,Cheeseburger,"Buffalo Wings"
+102,"Jane Smith",2,30,American,Cheeseburger,"Buffalo Wings"
+102,"Jane Smith",2,43,Mexican,"Chicken Enchiladas","Guacamole and Chips"
+102,"Jane Smith",2,43,Mexican,"Chicken Enchiladas","Guacamole and Chips"
+103,"Alice Johnson",3,56,Indian,"Chicken Tikka Masala",Samosas
+103,"Alice Johnson",3,56,Indian,"Chicken Tikka Masala",Samosas
